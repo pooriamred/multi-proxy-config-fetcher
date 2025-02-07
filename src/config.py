@@ -53,31 +53,10 @@ class ProxyConfig:
         # List of source URLs to fetch proxy configs from
         # Add or remove channels here. Each ChannelConfig takes a URL and enabled status (default: True)
         initial_urls = [
-            ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt"),
-            ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt"),
-            ChannelConfig("https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub"),
-            ChannelConfig("https://api.xyurl.site/api/v1/client/subscribe?token=fed4ab7c582c2a41a08a858f91644430"),
-            ChannelConfig("https://t.me/s/FreeV2rays"),
-            ChannelConfig("https://t.me/s/v2ray_free_conf"),
-            ChannelConfig("https://t.me/s/PrivateVPNs"),
-            ChannelConfig("https://t.me/s/IP_CF_Config"),
-            ChannelConfig("https://t.me/s/shadowproxy66"),
-            ChannelConfig("https://t.me/s/OutlineReleasedKey"),
-            ChannelConfig("https://t.me/s/prrofile_purple"),
-            ChannelConfig("https://t.me/s/proxy_shadosocks"),
-            ChannelConfig("https://t.me/s/meli_proxyy"),
-            ChannelConfig("https://t.me/s/DirectVPN"),
-            ChannelConfig("https://t.me/s/VmessProtocol"),
-            ChannelConfig("https://t.me/s/ViProxys"),
-            ChannelConfig("https://t.me/s/heyatserver"),
-            ChannelConfig("https://t.me/s/vpnfail_vless"),
-            # ChannelConfig("https://t.me/s/vlessh"),
-            # ChannelConfig("https://t.me/s/V2ray_Alpha"),
-            # ChannelConfig("https://t.me/s/VlessConfig"),
-            ChannelConfig("https://t.me/s/DailyV2RY"),
-            ChannelConfig("https://t.me/s/ShadowsocksM")
-            # ChannelConfig("https://t.me/s/v2rayngvpn")
-            # ChannelConfig("https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/channels/protocols/hysteria")
+            ChannelConfig("https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-1.csv#pooria1"),
+            ChannelConfig("https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-2.csv#Pooria2"),
+            ChannelConfig("https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-3.csv#Pooria3"),
+            ChannelConfig("https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-4.csv#Pooria4")
         ]
 
         # Remove duplicate URLs before assigning to SOURCE_URLS
