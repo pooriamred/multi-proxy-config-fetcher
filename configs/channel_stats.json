@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-07T22:09:53.100507+00:00",
+  "timestamp": "2025-02-07T22:36:55.526048+00:00",
   "channels": [
     {
       "url": "https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-1.csv#pooria1",
@@ -8,11 +8,11 @@
         "total_configs": 1,
         "valid_configs": 1,
         "unique_configs": 1,
-        "avg_response_time": 0.6,
+        "avg_response_time": 0.59,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.11,
-        "last_success": "2025-02-07T22:09:46.550730+00:00",
+        "overall_score": 99.12,
+        "last_success": "2025-02-07T22:36:45.780220+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 1,
         "valid_configs": 1,
         "unique_configs": 1,
-        "avg_response_time": 0.18,
+        "avg_response_time": 0.19,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.73,
-        "last_success": "2025-02-07T22:09:48.733549+00:00",
+        "overall_score": 99.72,
+        "last_success": "2025-02-07T22:36:47.966065+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -58,7 +58,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 99.73,
-        "last_success": "2025-02-07T22:09:50.916340+00:00",
+        "last_success": "2025-02-07T22:36:50.147432+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -81,13 +81,36 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 99.73,
-        "last_success": "2025-02-07T22:09:53.099784+00:00",
+        "last_success": "2025-02-07T22:36:52.330233+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 1,
+          "trojan://": 0,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://yebekhe.site/api/tce/api.php?id=redv2ray_channel&base64=false",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 4,
+        "valid_configs": 2,
+        "unique_configs": 2,
+        "avg_response_time": 1.19,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 85.71,
+        "last_success": "2025-02-07T22:36:55.525321+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 0,
+          "vless://": 2,
+          "vmess://": 0,
+          "ss://": 0,
           "trojan://": 0,
           "tuic://": 0
         }
