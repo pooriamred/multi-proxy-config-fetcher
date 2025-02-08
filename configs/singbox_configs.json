@@ -79,8 +79,8 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "vless-e2106423",
-        "vless-4c79d075",
+        "vless-669921f8",
+        "vless-85769cb6",
         "direct"
       ]
     },
@@ -88,8 +88,8 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "vless-e2106423",
-        "vless-4c79d075"
+        "vless-669921f8",
+        "vless-85769cb6"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -101,7 +101,7 @@
     },
     {
       "type": "vless",
-      "tag": "vless-e2106423",
+      "tag": "vless-669921f8",
       "server": "www.speedtest.net",
       "server_port": 443,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -121,7 +121,7 @@
     },
     {
       "type": "vless",
-      "tag": "vless-4c79d075",
+      "tag": "vless-85769cb6",
       "server": "www.speedtest.net",
       "server_port": 80,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
