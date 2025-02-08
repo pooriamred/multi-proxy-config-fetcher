@@ -79,11 +79,11 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "vless-67e32850",
-        "vless-c199ab93",
-        "vless-7955d5c5",
-        "trojan-cd3bbec5",
-        "trojan-f9a54474",
+        "vless-687346ca",
+        "vless-0a70f83a",
+        "vless-12c048b4",
+        "trojan-90741694",
+        "trojan-e5e6503d",
         "direct"
       ]
     },
@@ -91,11 +91,11 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "vless-67e32850",
-        "vless-c199ab93",
-        "vless-7955d5c5",
-        "trojan-cd3bbec5",
-        "trojan-f9a54474"
+        "vless-687346ca",
+        "vless-0a70f83a",
+        "vless-12c048b4",
+        "trojan-90741694",
+        "trojan-e5e6503d"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -107,7 +107,7 @@
     },
     {
       "type": "vless",
-      "tag": "vless-67e32850",
+      "tag": "vless-687346ca",
       "server": "104.21.56.44",
       "server_port": 443,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -127,7 +127,7 @@
     },
     {
       "type": "vless",
-      "tag": "vless-c199ab93",
+      "tag": "vless-0a70f83a",
       "server": "www.speedtest.net",
       "server_port": 443,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -147,7 +147,7 @@
     },
     {
       "type": "vless",
-      "tag": "vless-7955d5c5",
+      "tag": "vless-12c048b4",
       "server": "www.speedtest.net",
       "server_port": 80,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -167,7 +167,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-cd3bbec5",
+      "tag": "trojan-90741694",
       "server": "www.speedtest.net",
       "server_port": 443,
       "password": "Pooria",
@@ -187,7 +187,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-f9a54474",
+      "tag": "trojan-e5e6503d",
       "server": "www.speedtest.net",
       "server_port": 80,
       "password": "Pooria",
