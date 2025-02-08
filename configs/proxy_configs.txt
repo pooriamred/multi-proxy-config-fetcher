@@ -4,6 +4,8 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FQiQYw4XdJILMbmRF%3Fed%3D2560&security=tls&fragment=10-20%2C10-20%2Ctlshello&alpn=h2%2Chttp%2F1.1&encryption=none&host=rAhIm.POorIAoRG3.wOrKERS.dEV&fp=randomized&type=ws&sni=rahiM.PooriaorG3.worKErS.DeV#pooria2f
+
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FSyh6KWSdKDHaB6vB%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pooria304.diyone7732.workers.dev&fp=randomized&type=ws&sni=poOria304.dIYONE7732.wORkErs.DEV#%F0%9F%A5%B7POORIA%202%20-%20VLESS%20-%20Domain%20%3A%20443
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2Fcdv4tgOZ5bTb7Nm5%3Fed%3D2560&security=&encryption=none&host=pooria304.diyone7732.workers.dev&type=ws#%F0%9F%A5%B7POORIA%206%20-%20VLESS%20-%20Domain%20%3A%2080
