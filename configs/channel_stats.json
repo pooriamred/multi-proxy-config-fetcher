@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-10T06:16:01.197158+00:00",
+  "timestamp": "2025-02-10T07:11:34.612908+00:00",
   "channels": [
     {
       "url": "https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-1.csv#pooria1",
@@ -8,11 +8,11 @@
         "total_configs": 1,
         "valid_configs": 1,
         "unique_configs": 1,
-        "avg_response_time": 0.44,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.34,
-        "last_success": "2025-02-10T06:15:50.610084+00:00",
+        "overall_score": 99.35,
+        "last_success": "2025-02-10T07:11:24.061024+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -35,7 +35,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 99.82,
-        "last_success": "2025-02-10T06:15:52.728049+00:00",
+        "last_success": "2025-02-10T07:11:26.179574+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -57,8 +57,8 @@
         "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.82,
-        "last_success": "2025-02-10T06:15:54.846176+00:00",
+        "overall_score": 99.83,
+        "last_success": "2025-02-10T07:11:28.296519+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -80,8 +80,8 @@
         "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.82,
-        "last_success": "2025-02-10T06:15:56.964446+00:00",
+        "overall_score": 99.83,
+        "last_success": "2025-02-10T07:11:30.412490+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -100,11 +100,11 @@
         "total_configs": 36,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 2.23,
+        "avg_response_time": 2.2,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.82,
-        "last_success": "2025-02-10T06:16:01.196387+00:00",
+        "overall_score": 75.87,
+        "last_success": "2025-02-10T07:11:34.612109+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
