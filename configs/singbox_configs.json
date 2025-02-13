@@ -79,12 +79,12 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "vless-e72642dc",
-        "vless-17f05e1a",
-        "vless-4b866b70",
-        "vless-55624b1c",
-        "trojan-8c999594",
-        "trojan-e29e82d0",
+        "vless-a978e216",
+        "vless-558858e9",
+        "vless-5852f840",
+        "vless-35c35d3c",
+        "trojan-093aecb1",
+        "trojan-cd401b00",
         "direct"
       ]
     },
@@ -92,12 +92,12 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "vless-e72642dc",
-        "vless-17f05e1a",
-        "vless-4b866b70",
-        "vless-55624b1c",
-        "trojan-8c999594",
-        "trojan-e29e82d0"
+        "vless-a978e216",
+        "vless-558858e9",
+        "vless-5852f840",
+        "vless-35c35d3c",
+        "trojan-093aecb1",
+        "trojan-cd401b00"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -109,7 +109,7 @@
     },
     {
       "type": "vless",
-      "tag": "vless-e72642dc",
+      "tag": "vless-a978e216",
       "server": "104.21.56.44",
       "server_port": 443,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -129,7 +129,7 @@
     },
     {
       "type": "vless",
-      "tag": "vless-17f05e1a",
+      "tag": "vless-558858e9",
       "server": "www.speedtest.net",
       "server_port": 443,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -149,7 +149,7 @@
     },
     {
       "type": "vless",
-      "tag": "vless-4b866b70",
+      "tag": "vless-5852f840",
       "server": "www.speedtest.net",
       "server_port": 443,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -169,7 +169,7 @@
     },
     {
       "type": "vless",
-      "tag": "vless-55624b1c",
+      "tag": "vless-35c35d3c",
       "server": "www.speedtest.net",
       "server_port": 80,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -189,7 +189,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-8c999594",
+      "tag": "trojan-093aecb1",
       "server": "www.speedtest.net",
       "server_port": 443,
       "password": "Pooria",
@@ -209,7 +209,7 @@
     },
     {
       "type": "trojan",
-      "tag": "trojan-e29e82d0",
+      "tag": "trojan-cd401b00",
       "server": "www.speedtest.net",
       "server_port": 80,
       "password": "Pooria",
