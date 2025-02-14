@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-14T13:02:26.098880+00:00",
+  "timestamp": "2025-02-14T14:32:51.861494+00:00",
   "channels": [
     {
       "url": "https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-1.csv#pooria1",
@@ -8,11 +8,11 @@
         "total_configs": 1,
         "valid_configs": 1,
         "unique_configs": 1,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.35,
-        "last_success": "2025-02-14T13:02:16.522162+00:00",
+        "overall_score": 99.31,
+        "last_success": "2025-02-14T14:32:42.387567+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -54,11 +54,11 @@
         "total_configs": 1,
         "valid_configs": 1,
         "unique_configs": 1,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.82,
-        "last_success": "2025-02-14T13:02:20.761449+00:00",
+        "overall_score": 99.8,
+        "last_success": "2025-02-14T14:32:46.654025+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -100,11 +100,11 @@
         "total_configs": 36,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 1.22,
+        "avg_response_time": 1.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.34,
-        "last_success": "2025-02-14T13:02:26.098148+00:00",
+        "overall_score": 77.56,
+        "last_success": "2025-02-14T14:32:51.860690+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
