@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-16T16:37:27.533271+00:00",
+  "timestamp": "2025-02-16T17:27:40.775003+00:00",
   "channels": [
     {
       "url": "https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-1.csv#pooria1",
@@ -8,11 +8,11 @@
         "total_configs": 1,
         "valid_configs": 1,
         "unique_configs": 1,
-        "avg_response_time": 0.6,
+        "avg_response_time": 0.63,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.11,
-        "last_success": "2025-02-16T16:37:15.405547+00:00",
+        "overall_score": 99.05,
+        "last_success": "2025-02-16T17:27:28.844239+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -54,11 +54,11 @@
         "total_configs": 1,
         "valid_configs": 1,
         "unique_configs": 1,
-        "avg_response_time": 0.18,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.73,
-        "last_success": "2025-02-16T16:37:19.771063+00:00",
+        "overall_score": 99.75,
+        "last_success": "2025-02-16T17:27:33.174102+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -100,11 +100,11 @@
         "total_configs": 36,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 1.42,
+        "avg_response_time": 1.28,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.04,
-        "last_success": "2025-02-16T16:37:25.373064+00:00",
+        "overall_score": 77.25,
+        "last_success": "2025-02-16T17:27:38.616547+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -127,7 +127,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 77.54,
-        "last_success": "2025-02-16T16:37:27.532357+00:00",
+        "last_success": "2025-02-16T17:27:40.774177+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
