@@ -16,7 +16,7 @@ trojan://Pooria@www.speedtest.net:443?path=%2FtrJF1XisQEbWZpxEHh%3Fed%3D2560&sec
 
 trojan://Pooria@www.speedtest.net:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&security=none&host=redw.pooriam.ir&type=ws#@redfree8
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMjVjb25leGJoYXVFT09WejBoczRN@135.225.248.112:60569/?POST%20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMjVjb25leGJoYXVFT09WejBoczRN@20.91.130.174:60569/?POST%20
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMjVjb25leGJoYXVFT09WejBoczRN@51.12.49.101:60569/?POST%20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMjVjb25leGJoYXVFT09WejBoczRN@20.91.134.247:60569/?POST%20
 
