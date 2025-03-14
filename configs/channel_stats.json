@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-14T02:53:31.148296+00:00",
+  "timestamp": "2025-03-14T03:34:40.808286+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/pooriaredorg/POORIAREDORG.pages/refs/heads/main/POORIAREDORG.pages.txt",
@@ -8,11 +8,11 @@
         "total_configs": 100,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.35,
-        "last_success": "2025-03-14T02:53:19.028495+00:00",
+        "overall_score": 77.33,
+        "last_success": "2025-03-14T03:26:41.828039+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.26,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.38,
-        "last_success": "2025-03-14T02:53:21.291905+00:00",
+        "overall_score": 77.74,
+        "last_success": "2025-03-14T03:26:43.854759+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -72,23 +72,23 @@
     },
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=redv2ray_channel&base64=false",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
-        "total_configs": 169,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 3.27,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 71.57,
-        "last_success": "2025-03-14T02:53:28.650111+00:00",
+        "total_configs": 0,
+        "valid_configs": 0,
+        "unique_configs": 0,
+        "avg_response_time": 0,
+        "success_count": 0,
+        "fail_count": 1,
+        "overall_score": 15.0,
+        "last_success": null,
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 8,
+          "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 2,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
