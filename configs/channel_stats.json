@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-14T03:34:40.808286+00:00",
+  "timestamp": "2025-03-14T04:19:56.696531+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/pooriaredorg/POORIAREDORG.pages/refs/heads/main/POORIAREDORG.pages.txt",
@@ -8,11 +8,11 @@
         "total_configs": 100,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 77.33,
-        "last_success": "2025-03-14T03:26:41.828039+00:00",
+        "last_success": "2025-03-14T04:19:45.216496+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -35,7 +35,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 77.74,
-        "last_success": "2025-03-14T03:26:43.854759+00:00",
+        "last_success": "2025-03-14T04:19:47.244383+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -72,23 +72,23 @@
     },
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=redv2ray_channel&base64=false",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
-        "total_configs": 0,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null,
+        "total_configs": 169,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 2.82,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 72.25,
+        "last_success": "2025-03-14T04:19:54.140469+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 0,
+          "vless://": 8,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 0,
+          "trojan://": 2,
           "tuic://": 0
         }
       }
