@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-19T16:21:49.795884+00:00",
+  "timestamp": "2025-03-19T17:15:54.946586+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -8,11 +8,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.22,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.45,
-        "last_success": "2025-03-19T16:21:39.678787+00:00",
+        "overall_score": 77.72,
+        "last_success": "2025-03-19T17:15:45.326320+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 169,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.6,
+        "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.57,
-        "last_success": "2025-03-19T16:21:42.285764+00:00",
+        "overall_score": 76.47,
+        "last_success": "2025-03-19T17:15:47.333638+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -97,21 +97,21 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 105,
-        "valid_configs": 94,
-        "unique_configs": 94,
-        "avg_response_time": 0.38,
+        "total_configs": 116,
+        "valid_configs": 104,
+        "unique_configs": 104,
+        "avg_response_time": 0.31,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.81,
-        "last_success": "2025-03-19T16:21:49.795204+00:00",
+        "overall_score": 96.95,
+        "last_success": "2025-03-19T17:15:54.945862+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 84,
           "vmess://": 1,
           "ss://": 9,
-          "trojan://": 0,
+          "trojan://": 10,
           "tuic://": 0
         }
       }
