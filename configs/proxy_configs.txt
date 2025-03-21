@@ -4,8 +4,6 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-vless://%56%32%52%41%58%58@SRCVPN.fastly80-3.hosting-ip.com:80?mode=auto&path=%2FTelegram%2C%56%32%52%41%58%58%2CTelegram%2C%3Fed%3D2048&alpn=Tel:@SRCVPN,@SRCVPN,@SRCVPN&host=BIG-bang.global.ssl.fastly.net&type=xhttp#@meli_proxyy
-
 vless://18b42d4d-580c-4bcb-964b-db93457b3ae0@185.184.70.48:13507?security=reality&encryption=none&pbk=paO1TMygT5PynUTEFWKHOym9ULbXoU7RyO-STHiDU1k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=31c87861#@meli_proxyy
 
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@soccer120.info:2096?encryption=none&security=tls&sni=8YrMgOrTfU.bIgCoMpAnYhArD2.oRg&type=ws&alpn=h3h2&host=8YrMgOrTfU.bIgCoMpAnYhArD2.oRg&path=/#@meli_proxyy
@@ -56,9 +54,11 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.180:80?path=Telegram%F0%
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.232:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=none&encryption=none&host=redw.pooriam.ir&type=ws#%40meli_proxyy
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.155:80?security=none&encryption=none&host=301.pooriam.ir&type=ws#@meli_proxyy
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FTyQmE1ozm7iTqKPV%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=redp.pooriam.ir&fp=randomized&type=ws&sni=REdP.pOoRiAM.Ir#POORIARED
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FYHcDeYyqiNeX28up%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.poORiam.ir#%F0%9F%A5%B7POORIA
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FoX7ferlJbwT9C2Wz%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=redfree8-304.pooriam.ir&fp=randomized&type=ws&sni=reDfReE8-304.POoRIaM.Ir#%F0%9F%A5%B7%F0%9F%94%A5POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTcxNDAyOTRjNGQxNGM4QDE0OS4xMDIuMTUyLjE4NDoxMDk0MA==#@meli_proxyy
 
@@ -68,7 +68,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZGE1NmJjNDkwZmVhYmQ2@57.128.190.61:23436#@m
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGI4OTE4YzNmM2Y3Njg3QDIxMi41Ni40Mi4xOTA6MjIyNzg=#@meli_proxyy
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3aWw5OGJBSmRRUzBzM0RI@admin.c4.havij.co:443#%40meli_proxyy
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4OUNMbXZ0U3RuVUlUb3ZYQkNseGh1@flank3.g.edgeservers.org:54590/?POST%20#Server-3
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEclQ2aFFWTnY1eFdJVWxz@admin.c4.havij.co:443#%40meli_proxyy
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFR0Y0OTdIckJickhmUUIx@admin.c4.havij.co:443#%40meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHemhWQ3VBaU9BbXlmSEM2S2VzSEJM@flank2.g.edgeservers.org:15780/?POST%20#Server-2
 
