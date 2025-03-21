@@ -18,8 +18,6 @@ vless://40836595-f77d-4575-bcd9-3092f153f79e@80.211.203.158:25210?mode=gun&secur
 
 vless://409ef7ff-6449-4b9a-9db9-775927a1a925@157.245.40.50:8989?security=reality&encryption=none&pbk=TfbgQiZ2DOhCTDVLjx5Gwc5WHFSlQ_LXhyzKUEGR6mc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#@meli_proxyy
 
-vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@104.21.8.214:443?security=tls&encryption=none&host=crolinde.carlotta.cloudns.org&fp=chrome&type=ws&sni=crolinde.carlotta.cloudns.org#@meli_proxyy
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FMTMVPN%3Fed%3D2503&security=none&encryption=none&host=301.pooriam.ir&type=ws#@meli_proxyy
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=301.pooriam.ir&type=ws#@meli_proxyy
@@ -46,8 +44,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.28:2095?path=%2F&securit
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.60:2095?path=%2F&security=none&encryption=none&host=redw.pooriam.ir&type=ws#@meli_proxyy
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.60:2095?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#@meli_proxyy
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.180:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#@meli_proxyy
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.180:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#%40meli_proxyy
@@ -59,6 +55,10 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FTyQmE
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FYHcDeYyqiNeX28up%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.poORiam.ir#%F0%9F%A5%B7POORIA
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FoX7ferlJbwT9C2Wz%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=redfree8-304.pooriam.ir&fp=randomized&type=ws&sni=reDfReE8-304.POoRIaM.Ir#%F0%9F%A5%B7%F0%9F%94%A5POORIA
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=redw.pooriam.ir&path=/JF1XisQEbWZpxEHh?ed%3D2560&security=tls&fp=randomized&sni=REdw.pOoRIaM.ir&alpn=h2,http/1.1&fragment=100-200,1-1,tlshello#@redfree8%E2%9E%8AF
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=redw.pooriam.ir&path=/JF1XisQEbWZpxEHh?ed%3D2560&security=tls&fp=randomized&sni=REdw.pOoRIaM.ir&alpn=h2,http/1.1&fragment=100-200,1-1,tlshello#POORIA
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTcxNDAyOTRjNGQxNGM4QDE0OS4xMDIuMTUyLjE4NDoxMDk0MA==#@meli_proxyy
 
