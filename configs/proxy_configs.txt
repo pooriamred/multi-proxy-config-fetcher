@@ -6,8 +6,6 @@
 
 vless://18b42d4d-580c-4bcb-964b-db93457b3ae0@185.184.70.48:13507?security=reality&encryption=none&pbk=paO1TMygT5PynUTEFWKHOym9ULbXoU7RyO-STHiDU1k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=31c87861#@meli_proxyy
 
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@soccer120.info:2096?encryption=none&security=tls&sni=8YrMgOrTfU.bIgCoMpAnYhArD2.oRg&type=ws&alpn=h3h2&host=8YrMgOrTfU.bIgCoMpAnYhArD2.oRg&path=/#@meli_proxyy
-
 vless://312849b3-63a4-4016-a8eb-a7f5881a1d89@91.107.171.178:443?mode=auto&security=reality&encryption=none&pbk=4fSIOza6mb74f771xcLwwFtvmbZz7s9rIFDLlINyyU0&fp=chrome&type=xhttp&sni=theguardian.com&sid=b8890883a7c72d6e#@meli_proxyy
 
 vless://36977f8b-97b3-4b69-bc67-4c63a5a88e42@194.87.240.190:59842?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
@@ -60,13 +58,11 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=redw.pooriam.ir&path=/JF1XisQEbWZpxEHh?ed%3D2560&security=tls&fp=randomized&sni=REdw.pOoRIaM.ir&alpn=h2,http/1.1&fragment=100-200,1-1,tlshello#POORIA
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTcxNDAyOTRjNGQxNGM4QDE0OS4xMDIuMTUyLjE4NDoxMDk0MA==#@meli_proxyy
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#%40meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWYyNTU1NjEzZDhlMDliQDQ1LjEzNy4xOTQuMTY2OjQ5MTc4#@meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZGE1NmJjNDkwZmVhYmQ2@57.128.190.61:23436#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZGI4OTE4YzNmM2Y3Njg3QDIxMi41Ni40Mi4xOTA6MjIyNzg=#@meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3aWw5OGJBSmRRUzBzM0RI@admin.c4.havij.co:443#%40meli_proxyy
 
