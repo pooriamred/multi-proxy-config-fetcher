@@ -12,6 +12,8 @@ vless://40836595-f77d-4575-bcd9-3092f153f79e@80.211.203.158:25210?mode=gun&secur
 
 vless://409ef7ff-6449-4b9a-9db9-775927a1a925@157.245.40.50:8989?security=reality&encryption=none&pbk=TfbgQiZ2DOhCTDVLjx5Gwc5WHFSlQ_LXhyzKUEGR6mc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#@meli_proxyy
 
+vless://44aef0cc-ec1b-450e-8bc7-82d3dc2ba31c@51.77.108.99:13004?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#@meli_proxyy
+
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FMTMVPN%3Fed%3D2503&security=none&encryption=none&host=301.pooriam.ir&type=ws#@meli_proxyy
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=301.pooriam.ir&type=ws#%40meli_proxyy
@@ -57,8 +59,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FTyQmE1
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FYHcDeYyqiNeX28up%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.poORiam.ir#%F0%9F%A5%B7POORIA%20N%20TLS
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FoX7ferlJbwT9C2Wz%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=redfree8-304.pooriam.ir&fp=randomized&type=ws&sni=reDfReE8-304.POoRIaM.Ir#%F0%9F%A5%B7%F0%9F%94%A5POORIA%20N%20TLS
-
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWYyNTU1NjEzZDhlMDliQDQ1LjEzNy4xOTQuMTY2OjQ5MTc4#@meli_proxyy
 
